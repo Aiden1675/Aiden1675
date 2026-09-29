@@ -1,6 +1,6 @@
 # Hi, I'm Aiden 👋
 
-Cybersecurity student at the University of Kansas (graduating May 2027)
+Cybersecurity student at the University of Kansas (graduating May 2027),
 focused on **detection engineering** and **threat hunting**.
 
 ## What I'm working on
@@ -11,9 +11,9 @@ focused on **detection engineering** and **threat hunting**.
 
 ## Skills
 
-**SIEM / Detection:** Wazuh, MITRE ATT&CK, Sigma
-**Languages:** Python, Bash, c++, HTML, JAVA
-**Labs:** VirtualBox, Docker, Linux
+- **SIEM / Detection:** Wazuh, MITRE ATT&CK, Sigma
+- **Languages:** Python, Bash, C++, Java
+- **Labs:** VirtualBox, Docker, Linux
 
 ## Currently
 
@@ -21,5 +21,5 @@ focused on **detection engineering** and **threat hunting**.
 
 ## Contact
 
-- LinkedIn: [www.linkedin.com/in/aiden-schneibel-560a82279]
-- Email: [schneibelaiden@gmail.com]
+- LinkedIn: [Aiden Schneibel](https://www.linkedin.com/in/aiden-schneibel-560a82279)
+- Email: schneibelaiden@gmail.com
