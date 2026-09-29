@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aiden 👋
 
-<!--
-**Aiden1675/Aiden1675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at the University of Kansas (graduating May 2027)
+focused on **detection engineering** and **threat hunting**.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Detection-as-code**: Wazuh and Sigma rules mapped to MITRE ATT&CK, tested with CI *(in progress)*
+- 🍯 **Honeypot threat intel**: analyzing real attacker behavior *(planned)*
+- 📝 **Incident response write-ups** from my home lab *(planned)*
+
+## Skills
+
+**SIEM / Detection:** Wazuh, MITRE ATT&CK, Sigma
+**Languages:** Python, Bash, c++, HTML, JAVA
+**Labs:** VirtualBox, Docker, Linux
+
+## Currently
+
+- Building out my home lab and documenting what I learn
+
+## Contact
+
+- LinkedIn: [www.linkedin.com/in/aiden-schneibel-560a82279]
+- Email: [schneibelaiden@gmail.com]
