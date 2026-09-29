@@ -1,18 +1,17 @@
 # Hi, I'm Aiden 👋
 
-Cybersecurity student at the University of Kansas (graduating May 2027),
-focused on **detection engineering** and **threat hunting**.
+Cybersecurity student at the University of Kansas (graduating May 2027), building security automation, deception tools, and AI-assisted detection in a home lab.
 
-## What I'm working on
+## Projects
 
-- 🍯 **AI Deception Honeypot **: Prototype deception tools built in an isolated VirtualBox lab: fake network services, a honey-file alert, and an LLM-driven fake terminal.*
-- 📝 **Incident response write-ups** from my home lab *(planned)*
+- 🍯 **[AI Deception Honeypot](https://github.com/Aiden1675/ai-deception-honeypot)**: fake network services, a honey-file alert, and an LLM-driven fake terminal, mapped to MITRE ATT&CK
+- 🤖 **AI SOC analyst and orchestration** *(coming soon)*
 
 ## Skills
 
-- **SIEM / Detection:** Wazuh, MITRE ATT&CK, Sigma
+- **Security / Detection:** Wazuh, MITRE ATT&CK, auditd
 - **Languages:** Python, Bash, C++, Java
-- **Labs:** VirtualBox, Docker, Linux
+- **Labs:** VirtualBox, Docker, Linux, Ollama (local LLMs)
 
 ## Currently
 
