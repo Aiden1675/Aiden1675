@@ -5,7 +5,7 @@ Cybersecurity student at the University of Kansas (graduating May 2027), buildin
 ## Projects
 
 - 🍯 **[AI Deception Honeypot](https://github.com/Aiden1675/ai-deception-honeypot)**: fake network services, a honey-file alert, and an LLM-driven fake terminal, mapped to MITRE ATT&CK
-- 🤖 **AI SOC analyst and orchestration** *(coming soon)*
+- 🤖 **[AI SOC Orchestration](https://github.com/Aiden1675/ai-soc-orchestration)**: Wazuh alert triage with a local LLM, threat-feed correlation, and Ansible self-healing
 
 ## Skills
 
