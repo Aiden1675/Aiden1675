@@ -5,8 +5,7 @@ focused on **detection engineering** and **threat hunting**.
 
 ## What I'm working on
 
-- 🔍 **Detection-as-code**: Wazuh and Sigma rules mapped to MITRE ATT&CK, tested with CI *(in progress)*
-- 🍯 **Honeypot threat intel**: analyzing real attacker behavior *(planned)*
+- 🍯 **AI Deception Honeypot **: Prototype deception tools built in an isolated VirtualBox lab: fake network services, a honey-file alert, and an LLM-driven fake terminal.*
 - 📝 **Incident response write-ups** from my home lab *(planned)*
 
 ## Skills
