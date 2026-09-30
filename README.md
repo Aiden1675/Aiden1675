@@ -22,4 +22,4 @@ Cybersecurity student at the University of Kansas (graduating May 2027), buildin
 ## Contact
 
 - LinkedIn: [Aiden Schneibel](https://www.linkedin.com/in/aiden-schneibel-560a82279)
-- **Email:** [![Email Me](https://img.shields.io/badge/Email-schneibelaiden%40gmail.com-blue?style=flat&logo=gmail)](mailto:schneibelaiden@gmail.com)
+
