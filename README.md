@@ -8,16 +8,17 @@ Cybersecurity student at the University of Kansas (graduating May 2027), buildin
 - 🤖 **[AI SOC Orchestration](https://github.com/Aiden1675/ai-soc-orchestration)**: Wazuh alert triage with a local LLM, threat-feed correlation, and Ansible self-healing
 - 🎯 **[MITRE ATT&CK Analytics](https://github.com/Aiden1675/mitre-attack-analytics)**: Wazuh alert analysis, ATT&CK technique mapping, and insider-risk scoring
 - 🔐 **[Quantum Computing Experiments](https://github.com/Aiden1675/quantum-computing-experiments)**: post-quantum cryptography assessment and Qiskit experiments
+- 🧪 [**Detection Lab**](https://github.com/Aiden1675/detection-lab): Sigma detection rules tested against real attack logs, converted to Wazuh rules, with CI
 
 ## Skills
 
-- **Security / Detection:** Wazuh, MITRE ATT&CK, auditd
+- **Security / Detection:** Wazuh, MITRE ATT&CK, auditd, Sigma
 - **Languages:** Python, Bash, C++, Java
 - **Labs:** VirtualBox, Docker, Linux, Ollama (local LLMs)
 
 ## Currently
 
-- Building out my home lab and documenting what I learn
+- Building out my home lab: detection engineering with Sigma and Wazuh
 
 ## Contact
 
